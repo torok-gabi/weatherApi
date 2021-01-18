@@ -1,0 +1,21 @@
+{
+    "name": "weatherapi",
+    "version": "1.0.0",
+    "description": "y",
+    "main": "y",
+    "scripts": {
+        "start": "script/weather.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "y"
+    },
+    "keywords": [
+        "y"
+    ],
+    "author": "y",
+    "license": "ISC",
+    "dependencies": {
+        "normalize.css": "^8.0.1"
+    }
+}
